@@ -1,4 +1,4 @@
-* Trident Mode
+* Trident Mode - modified to (hopefully) work with sly
 
 This is an [[http://www.gnu.org/software/emacs/][Emacs]] minor mode and collection of commands for working with
 [[http://common-lisp.net/project/parenscript/][Parenscript]] code in [[http://common-lisp.net/project/slime/][SLIME]] and sending it to the browser via [[https://github.com/skeeto/skewer-mode][Skewer]]. The goal is
